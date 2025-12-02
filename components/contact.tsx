@@ -157,7 +157,7 @@ export default function Contact() {
           </a>
           <div className="flex gap-3">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/sowmya-gupta-585045239"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 border border-border rounded-lg hover:border-primary hover:bg-primary/5 transition-colors"
@@ -168,7 +168,7 @@ export default function Contact() {
               </svg>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/sowmya-gupta14"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 border border-border rounded-lg hover:border-primary hover:bg-primary/5 transition-colors"
@@ -179,7 +179,7 @@ export default function Contact() {
               </svg>
             </a>
             <a
-              href="https://leetcode.com"
+              href="https://leetcode.com/u/sowmya_14"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 border border-border rounded-lg hover:border-primary hover:bg-primary/5 transition-colors"

@@ -11,7 +11,7 @@ export default function Projects() {
           "Integrated payment gateway with encrypted checkout",
           "Designed and optimized MongoDB database schema",
         ],
-        link: "#",
+        link: "https://github.com/sowmya-gupta14/foodgate",
       },
       {
         title: "SafarSaathi",
@@ -23,7 +23,7 @@ export default function Projects() {
           "Optimized page load performance with React hooks",
           "Implemented geospatial data visualization",
         ],
-        link: "#",
+        link: "https://github.com/sowmya-gupta14/travel_advisor",
       },
     ]
   

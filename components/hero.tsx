@@ -4,13 +4,11 @@ export default function Hero() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="space-y-6">
             <h1 className="text-5xl sm:text-6xl font-bold text-balance">Sowmya Gupta</h1>
-            <p className="text-xl sm:text-2xl text-muted-foreground font-light max-w-2xl">
-              Full Stack Developer | Next.js | React | Performance Optimization
+            <p className="text-xl sm:text-2xl text-muted-foreground font-light max-w-4xl">
+              Software Developer | Frontend | Backend | DevOps | Performance Optimization
             </p>
-            <p className="text-lg text-muted-foreground max-w-3xl leading-relaxed">
-              Currently a Software Developer Intern at PharmEasy, improving user experiences through modern web
-              technologies and meticulous performance optimization. Passionate about building scalable applications and
-              exploring the intersection of design and development.
+            <p className="text-lg text-muted-foreground max-w-4xl leading-relaxed text-justify">
+              I’m a full-stack web developer skilled in React, Next.js, Node.js, Express.js, and MongoDB, with strong foundations in DSA, databases, and system fundamentals. I enjoy building responsive UIs, secure backend systems, and performance-optimized applications. I’m always learning—whether it’s cloud deployment, advanced JavaScript patterns, or AI-accelerated development.
             </p>
             <div className="flex gap-4 pt-4">
               <a

@@ -2,7 +2,7 @@ export default function Skills() {
     const skills = {
       "Programming Languages": ["Java", "Python", "JavaScript", "TypeScript"],
       Frontend: ["React.js", "Next.js", "Tailwind CSS", "Bootstrap", "GSAP", "Swiper.js"],
-      Backend: ["Node.js", "Express.js", "REST APIs"],
+      Backend: ["Node.js", "Express.js", "REST APIs", "Django"],
       Databases: ["MySQL", "MongoDB"],
       "Tools & Others": ["Git", "GitHub", "Vercel", "AI Tools (Cursor, Copilot, ChatGPT)", "Prompt Engineering"],
       "CS Fundamentals": ["Data Structures", "OOPs", "Databases", "OS"],
